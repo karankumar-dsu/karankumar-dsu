@@ -22,16 +22,9 @@ Computer Science Student • IT Operations Intern @ National Bank of Pakistan
 
 ## 💻 Tech Stack
 
-- Java
-- C++
-- SQL
-- MySQL
-- HTML
-- CSS
-- Linux
-- Git
-- GitHub
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,mysql,html,css,linux,git,github,vscode,idea" />
+</p>
 ---
 
 ## 📫 Connect With Me
