@@ -8,14 +8,20 @@
 Computer Science Student • IT Operations Intern @ National Bank of Pakistan
 </h3>
 
+<p align="center">
+I enjoy building projects, learning new technologies, and improving my programming skills.
+This GitHub is where I share my work, university projects, and learning journey.
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student at **DHA Suffa University**
 - 🏦 IT Operations Intern at **National Bank of Pakistan (Head Office)**
+- 💻 Interested in **Software Development, Database Management, Linux, and DevOps**
 - 🌱 Currently learning **Java, SQL, Linux, Git & GitHub**
-- 🎯 Interested in **Software Development, Database Management, and DevOps**
+- 🎯 Working towards becoming a Software Engineer
 - 📍 Karachi, Pakistan
 
 ---
@@ -25,9 +31,51 @@ Computer Science Student • IT Operations Intern @ National Bank of Pakistan
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,mysql,html,css,linux,git,github,vscode,idea" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karankumar-dsu&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankumar-dsu&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=karankumar-dsu&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🛠️ Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,idea" />
+</p>
+
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/karankumar-dsu
-- 📧 Email: karankumarjaseja@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/karankumar-dsu">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:karankumarjaseja@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
