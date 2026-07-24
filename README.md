@@ -34,17 +34,6 @@ This GitHub is where I share my work, university projects, and learning journey.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karankumar-dsu&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankumar-dsu&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
